@@ -32,3 +32,4 @@ data.pkl is the training syllables that were used.
 features.ipynb consists of extracting features and some analysis presented in the slides.  
 model_training.ipynb was for training models ( stress level 2 for mfa was converted to 1 so make sure to run those cells) along with some report generation.  
 Please make a note that some graphs and results may vary from the slides but that is because some experiments were being conducted by me but the results shown in the slides are only valid.  
+features.ipynb and model_training.ipynb should be fairly straight-forward to run. If any confusion or errors, please contact us, since these files were not necessarily desiged for use by people other than 2021101057.  
