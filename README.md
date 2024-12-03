@@ -33,3 +33,4 @@ features.ipynb consists of extracting features and some analysis presented in th
 model_training.ipynb was for training models ( stress level 2 for mfa was converted to 1 so make sure to run those cells) along with some report generation.  
 Please make a note that some graphs and results may vary from the slides but that is because some experiments were being conducted by me but the results shown in the slides are only valid.  
 features.ipynb and model_training.ipynb should be fairly straight-forward to run. If any confusion or errors, please contact us, since these files were not necessarily desiged for use by people other than 2021101057.  
+Moreover, to successfully run the files the paths should all be correct which was the case on our systems but not necessarily on github so please be cautious about any errors.
